@@ -1,0 +1,32 @@
+const nfts = [
+    [
+        {
+          "name": "1",
+          "description": "Anime 1",
+          "image": "https://gateway.pinata.cloud/ipfs/Qma9UksECVww587M8hVAiNzpGjUoEQqG1MnLKHfVN2Z32x/0.png"
+        },
+        {
+          "name": "2",
+          "description": "Anime 2",
+          "image": "https://gateway.pinata.cloud/ipfs/QmVfQPccSRg4NZoonP8UnMUom9Z8aoDVV9swDhuse8oCPz/1.png"
+        },
+        {
+          "name": "3",
+          "description": "Anime 3",
+          "image": "https://gateway.pinata.cloud/ipfs/QmYRgvusNawHB62SDzYVRDedVprUwBdVZvw8ivWqNgNgdR/2.png"
+        },
+        {
+          "name": "4",
+          "description": "Anime 4",
+          "image": "https://gateway.pinata.cloud/ipfs/QmXf76xbfNKp2qw5QZWGg3Z178j2MNQddz1K15EZQCLiW2/3.png"
+        },
+        {
+          "name": "5",
+          "description": "Anime 5",
+          "image": "https://gateway.pinata.cloud/ipfs/QmXf76xbfNKp2qw5QZWGg3Z178j2MNQddz1K15EZQCLiW2/4.png"
+        }
+      ]
+      
+];
+
+module.exports = nfts;
